@@ -28,4 +28,3 @@ make docker-build
 make docker-run
 ```
 
-Next steps I will implement (unless you request changes): storage layer, piece verification, peer wire protocol, tracker client, DHT, and UI.
